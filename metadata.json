@@ -1,0 +1,6 @@
+{
+  "name": "MOONI — MVP Transporte — Pruebas",
+  "description": "Base y panel administrativo tipo Uber para gestión de transporte solicitado por WhatsApp con arquitectura de datos Airtable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
